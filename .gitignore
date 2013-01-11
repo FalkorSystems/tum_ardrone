@@ -1,0 +1,15 @@
+bin/
+build/
+*.cfgc
+cfg/cpp/
+docs/
+msg_gen/
+src/tum_ardrone
+thirdparty/gvars3/build/
+thirdparty/gvars3/gvars_built
+thirdparty/gvars3/include/
+thirdparty/gvars3/lib/
+thirdparty/libcvd/build/
+thirdparty/libcvd/include/
+thirdparty/libcvd/lib/
+thirdparty/libcvd/libcvd_built
